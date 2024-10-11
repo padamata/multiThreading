@@ -5,7 +5,7 @@ import org.springframework.boot.SpringBootConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 
-@SpringBootConfiguration
+
 @SpringBootApplication
 @EnableJpaRepositories
 public class MultiThreadingApplication {
